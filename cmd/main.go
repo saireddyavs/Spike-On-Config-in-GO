@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go-env-ways/pkg/envfile"
-	"go-env-ways/pkg/vault"
-	"go-env-ways/pkg/viperenv"
+	"go-config/pkg/envfile"
+	"go-config/pkg/vault"
+	"go-config/pkg/viperenv"
 	"os"
 )
 
