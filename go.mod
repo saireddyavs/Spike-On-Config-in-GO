@@ -1,4 +1,4 @@
-module go-env-ways
+module go-config
 
 go 1.16
 
